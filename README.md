@@ -1,4 +1,4 @@
-<img width="1225" height="845" alt="image" src="https://github.com/user-attachments/assets/aea75e9f-7355-4143-94ee-37c04cb81286" /># 🚀 Smart Lead Assignment System (Mini CRM)
+<img width="1238" height="584" alt="image" src="https://github.com/user-attachments/assets/b3eae4fd-8f0a-4b8e-ab4f-60364f3e75e7" /><img width="1225" height="845" alt="image" src="https://github.com/user-attachments/assets/aea75e9f-7355-4143-94ee-37c04cb81286" /># 🚀 Smart Lead Assignment System (Mini CRM)
 
 ## 📌 Objective
 
