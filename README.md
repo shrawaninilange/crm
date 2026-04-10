@@ -46,7 +46,7 @@ crm/
 ### 🔹 1. Clone Project
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/shrawaninilange/crm.git
 cd crm
 ```
 
